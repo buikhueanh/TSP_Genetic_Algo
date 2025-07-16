@@ -40,7 +40,7 @@ This program simulates biological evolution (selection, mutation, and reproducti
 ---
 
 ## 📂 Project Structure
-
+```
 TSP_Genetic_Algorithm/
 │
 ├── test/ # Contains input files like indiana.txt, tsp21.txt
@@ -49,4 +49,4 @@ TSP_Genetic_Algorithm/
 ├── Helper.java # Input file selection & preprocessing
 ├── Individual.java # Encapsulation of a candidate solution
 ├── IndividualComparator.java # Sorting population by fitness
-
+```
